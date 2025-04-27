@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 
-<h3>Name: LIGNESHWAR K</h3>
+<h3>Name:LIGNESHWAR K</h3>
 <h3>Register Number: 212223230113</h3>
 <h3>AIM:</h3>
 <br>
@@ -98,7 +98,7 @@ agent.perform_action("nothing")
 agent.print_status()
 ```
 ## OUTPUT
-![{A1358966-3C48-47F7-BECD-746E10AA6608}](https://github.com/user-attachments/assets/48b989c8-438b-4303-a50f-e299d57ab3d7)
+![image](https://github.com/user-attachments/assets/025a2248-ab17-43ea-b924-ee1b940d0152)
 
 ## RESULT
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
